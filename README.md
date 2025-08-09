@@ -1,17 +1,18 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Nanthakumar</h3>
+<h1 align="center" style="color:#ff4b87;">Hello! I'm Nanthakumar</h1>
+<h3 align="center" style="color:#6a5acd;"><i>I build full-stack applications 🚀</i></h3>
 
-<!--
-**nantha99/nantha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a passionate **.NET Full Stack Developer** from India 🇮🇳 with 2+ years of experience building scalable, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 💻 **Full Stack Developer** specializing in **.NET Core, C#, Entity Framework, React.js**
+- 🛠 Experienced in **SQL Server, PostgreSQL**
+- 🚀 Love building clean, scalable, and efficient systems
+- 📚 Currently learning **Microservices & Cloud Deployment (Azure)**
+
+### 📫 How to Reach Me
+- 📧 **Email:** nanthakumarsekar05@gmail.com  
+- 📞 **Phone:** +91 93450 75289  
+
+---
