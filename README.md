@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#ff4b87;">Hello! I'm Nanthakumar</h1>
-<h3 align="center" style="color:#6a5acd;"><i>I build full-stack applications 🚀</i></h3>
+<h3 align="center" style="color:#6a5acd;"><i>I build full-stack Developer 🚀</i></h3>
 
 ---
 
